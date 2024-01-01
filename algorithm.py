@@ -1,6 +1,5 @@
 '''
 Name   : Ashwin Sai C
-NetID  : AXC210110
 Course : ML - CS6375-003
 Title  : Mini Project 1
 Term   : Fall 2023
